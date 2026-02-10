@@ -1,0 +1,6 @@
+[
+  {"pattern": "(?i)steam|epic|launcher", "category": "Game", "project": "Games", "label": "Game"},
+  {"pattern": "(?i)nathmis|passenger_Seo|passenger_seo|matar", "category": "Main", "project": "Nathmis Portfolio", "label": "Nathmis Portfolio"},
+  {"pattern": "(?i)time ?management|time_management", "category": "Side", "project": "TimeManagement", "label": "TimeManagement"},
+  {"pattern": "(?i)obsidian", "category": "Side", "project": "Obsidian:${file}", "label": "Obsidian"}
+]
