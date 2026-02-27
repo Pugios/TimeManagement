@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:modules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 140,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modules.cs",
+              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\Modules.cs",
+              "RelativeDocumentMoniker": "Modules.cs",
+              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\Modules.cs",
+              "RelativeToolTip": "Modules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T15:10:31.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -34,28 +52,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\AppSettings.cs",
               "RelativeDocumentMoniker": "AppSettings.cs",
               "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\AppSettings.cs",
               "RelativeToolTip": "AppSettings.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwDIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwDIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T07:39:06.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAK8BAAAAAAAAAAAAAHYBAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T19:56:11.251Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +71,7 @@
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-23T19:55:45.65Z",
               "EditorCaption": ""
@@ -74,12 +79,25 @@
           ]
         },
         {
-          "DockedWidth": 170,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 140,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T19:56:11.251Z",
+              "EditorCaption": ""
             }
           ]
         }
