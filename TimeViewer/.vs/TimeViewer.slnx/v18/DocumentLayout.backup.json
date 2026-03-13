@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\explorersettingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:explorersettingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|c:\\users\\matar\\documents\\pugiosdocuments\\ownprojects\\timemanagement\\timeviewer\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8545B09-C5EF-E758-CB1E-A72A1D6AD13D}|TimeViewer.csproj|solutionrelative:dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,36 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 140,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SettingsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml.cs",
-              "RelativeDocumentMoniker": "SettingsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml.cs",
-              "RelativeToolTip": "SettingsPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T15:55:50.303Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SettingsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml",
-              "RelativeDocumentMoniker": "SettingsPage.xaml",
-              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml",
-              "RelativeToolTip": "SettingsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-05T10:50:07.456Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -65,29 +37,33 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsService.cs",
-              "RelativeDocumentMoniker": "SettingsService.cs",
-              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsService.cs",
-              "RelativeToolTip": "SettingsService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwE4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T14:23:33.871Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml",
+              "RelativeToolTip": "SettingsPage.xaml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAF8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T14:35:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\DataService.cs",
               "RelativeDocumentMoniker": "DataService.cs",
               "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\DataService.cs",
               "RelativeToolTip": "DataService.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAANQAAAAAAAAAAAAYwOgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T18:47:38.866Z",
+              "WhenOpened": "2026-03-13T14:11:12.101Z",
               "EditorCaption": ""
             }
           ]
@@ -99,6 +75,54 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "37a6f7cc-7b42-4f43-97e4-f4cdc99e78f5",
+        "Display": 1,
+        "X": -5,
+        "Y": 466,
+        "Width": 1090,
+        "Height": 1005,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExplorerSettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\ExplorerSettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ExplorerSettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\ExplorerSettingsPage.xaml.cs",
+              "RelativeToolTip": "ExplorerSettingsPage.xaml.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA2wBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:48:48.684Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\matar\\Documents\\PugiosDocuments\\OwnProjects\\TimeManagement\\TimeViewer\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "SettingsPage.xaml.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswNAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:33:27.667Z",
+              "EditorCaption": ""
             }
           ]
         }
